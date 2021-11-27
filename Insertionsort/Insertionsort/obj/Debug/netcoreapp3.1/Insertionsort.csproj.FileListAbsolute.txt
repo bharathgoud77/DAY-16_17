@@ -1,0 +1,13 @@
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.exe
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.deps.json
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.runtimeconfig.json
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.runtimeconfig.dev.json
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.dll
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.pdb
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.AssemblyInfoInputs.cache
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.AssemblyInfo.cs
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.dll
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.pdb
+E:\fellowship\DAY-16_17\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.genruntimeconfig.cache
