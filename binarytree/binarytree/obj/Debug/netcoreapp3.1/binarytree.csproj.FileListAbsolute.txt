@@ -1,0 +1,14 @@
+E:\fellowship\DAY-16_17\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.exe
+E:\fellowship\DAY-16_17\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.deps.json
+E:\fellowship\DAY-16_17\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.runtimeconfig.json
+E:\fellowship\DAY-16_17\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.runtimeconfig.dev.json
+E:\fellowship\DAY-16_17\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.dll
+E:\fellowship\DAY-16_17\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.pdb
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.csproj.AssemblyReference.cache
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.AssemblyInfoInputs.cache
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.AssemblyInfo.cs
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.dll
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.pdb
+E:\fellowship\DAY-16_17\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.genruntimeconfig.cache
