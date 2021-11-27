@@ -1,0 +1,13 @@
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.exe
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.deps.json
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.json
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.dev.json
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.dll
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.pdb
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfoInputs.cache
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfo.cs
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.dll
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.pdb
+E:\fellowship\DAY-16_17\PrimeNum\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.genruntimeconfig.cache
