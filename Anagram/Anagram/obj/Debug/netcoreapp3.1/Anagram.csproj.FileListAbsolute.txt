@@ -1,0 +1,13 @@
+E:\fellowship\DAY-16_17\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.exe
+E:\fellowship\DAY-16_17\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.deps.json
+E:\fellowship\DAY-16_17\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.runtimeconfig.json
+E:\fellowship\DAY-16_17\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.runtimeconfig.dev.json
+E:\fellowship\DAY-16_17\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.dll
+E:\fellowship\DAY-16_17\Anagram\Anagram\bin\Debug\netcoreapp3.1\Anagram.pdb
+E:\fellowship\DAY-16_17\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY-16_17\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.AssemblyInfoInputs.cache
+E:\fellowship\DAY-16_17\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.AssemblyInfo.cs
+E:\fellowship\DAY-16_17\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY-16_17\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.dll
+E:\fellowship\DAY-16_17\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.pdb
+E:\fellowship\DAY-16_17\Anagram\Anagram\obj\Debug\netcoreapp3.1\Anagram.genruntimeconfig.cache
